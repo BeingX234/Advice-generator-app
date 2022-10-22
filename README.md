@@ -41,8 +41,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/BeingX234/Advice-generator-app)
-- Live Site URL: [Add live site URL here](https://beingx234.github.io/Advice-generator-app/)
+- Solution URL: [Solution URL](https://github.com/BeingX234/Advice-generator-app)
+- Live Site URL: [Live site URL](https://beingx234.github.io/Advice-generator-app/)
 
 ## My process
 
