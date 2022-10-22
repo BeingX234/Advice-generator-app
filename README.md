@@ -35,7 +35,7 @@ Users should be able to:
 - In mobile screen size              
 ![In mobile screen size](./images/mobile.png)
 
-- In mobile screen size with active states                    
+- In mobile screen size with active states                                
 ![In mobile screen size with active states](./images/mobile-active.png)
 
 
