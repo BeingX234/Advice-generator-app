@@ -32,10 +32,10 @@ Users should be able to:
 - In desktop screen size with active states
 ![In desktop screen size with active states](./images/desktop-active.png)
 
-- In mobile screen size
+- In mobile screen size              
 ![In mobile screen size](./images/mobile.png)
 
-- In mobile screen size with active states
+- In mobile screen size with active states                    
 ![In mobile screen size with active states](./images/mobile-active.png)
 
 

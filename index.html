@@ -32,29 +32,32 @@
 </head>
 
 <body>
-
-  <div class="content">
-    <div class="card">
-      <p id="advice_id">ERROR</p>
-      <div class="advice-content">
-        <q id="advice">404: Advice not found</q>
+  <main>
+    <div class="content">
+      <div class="card">
+        <p id="advice_id">ERROR</p>
+        <div class="advice-content">
+          <q id="advice">404: Advice not found</q>
+        </div>
+        <picture class="divider">
+          <source media="(max-width: 550px)" srcset="/images/pattern-divider-mobile.svg">
+          <img src="images/pattern-divider-desktop.svg" alt="divider">
+        </picture>
+        <div class="card-button">
+          <button class="refresh-btn" onclick="getText(url)">
+            <img src="images/icon-dice.svg" alt="dice">
+          </button>
+        </div>
       </div>
-      <picture class="divider">
-        <source media="(max-width: 550px)" srcset="/images/pattern-divider-mobile.svg">
-        <img src="images/pattern-divider-desktop.svg" alt="divider">
-      </picture>
-      <div class="card-button">
-        <button class="refresh-btn" onclick="getText(url)">
-          <img src="images/icon-dice.svg" alt="dice">
-        </button>
+
+      <div class="attribution">
+        Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
+        Coded by <a href="#">Hieu Nguyen</a>.
       </div>
     </div>
 
-    <div class="attribution">
-      Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
-      Coded by <a href="#">Hieu Nguyen</a>.
-    </div>
-  </div>
+  </main>
+
 
 </body>
 
